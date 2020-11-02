@@ -7,3 +7,5 @@ class Song < InteractiveRecord
   end
 
 end
+
+#code along 11/1
